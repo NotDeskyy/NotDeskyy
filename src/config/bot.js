@@ -97,46 +97,46 @@ export const botConfig = {
       secondary: "#ff73b3",
 
       // Standard status colors for success/error/warning/info messages.
-      success: "#57F287",
-      error: "#ED4245",
-      warning: "#FEE75C",
-      info: "#3498DB",
+      success: "#ff73b3",
+      error: "#ff73b3",
+      warning: "#ff73b3",
+      info: "#ff73b3",
 
       // Neutral utility colors.
-      light: "#FFFFFF",
-      dark: "#202225",
-      gray: "#99AAB5",
+      light: "#ff73b3",
+      dark: "#ff73b3",
+      gray: "#ff73b3",
 
       // Discord-style palette shortcuts.
-      blurple: "#5865F2",
-      green: "#57F287",
-      yellow: "#FEE75C",
-      fuchsia: "#EB459E",
-      red: "#ED4245",
-      black: "#000000",
+      blurple: "#ff73b3",
+      green: "#ff73b3",
+      yellow: "#ff73b3",
+      fuchsia: "#ff73b3",
+      red: "#ff73b3",
+      black: "#ff73b3",
 
       // Feature-specific colors.
       giveaway: {
-        active: "#57F287",
-        ended: "#ED4245",
+        active: "#ff73b3",
+        ended: "#ff73b3",
       },
       ticket: {
-        open: "#57F287",
-        claimed: "#FAA61A",
-        closed: "#ED4245",
-        pending: "#99AAB5",
+        open: "#ff73b3",
+        claimed: "#ff73b3",
+        closed: "#ff73b3",
+        pending: "#ff73b3",
       },
-      economy: "#F1C40F",
-      birthday: "#E91E63",
-      moderation: "#9B59B6",
+      economy: "#ff73b3",
+      birthday: "#ff73b3",
+      moderation: "#ff73b3",
 
       // Ticket priority color mapping.
       priority: {
-        none: "#95A5A6",
-        low: "#3498db",
-        medium: "#2ecc71",
-        high: "#f1c40f",
-        urgent: "#e74c3c",
+        none: "#ff73b3",
+        low: "#ff73b3",
+        medium: "#ff73b3",
+        high: "#ff73b3",
+        urgent: "#ff73b3",
       },
     },
     footer: {
