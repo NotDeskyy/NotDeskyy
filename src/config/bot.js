@@ -23,7 +23,7 @@ export const botConfig = {
     // 5 = Competing
     activities: [
       {
-        name: "/help | Riuu's Paradise", // required by Discord API, not shown in the client
+        name: "/help | Deskyy's Legacy", // required by Discord API, not shown in the client
         state: " ",     // this is what people actually see
         type: 0,               // Custom
       },
