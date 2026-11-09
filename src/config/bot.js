@@ -117,26 +117,26 @@ export const botConfig = {
 
       // Feature-specific colors.
       giveaway: {
-        active: "#ff73b3",
-        ended: "#ff73b3",
+        active: "#84D8FF",
+        ended: "#84D8FF",
       },
       ticket: {
-        open: "#ff73b3",
-        claimed: "#ff73b3",
-        closed: "#ff73b3",
-        pending: "#ff73b3",
+        open: "#84D8FF",
+        claimed: "#84D8FF",
+        closed: "#84D8FF",
+        pending: "#84D8FF",
       },
-      economy: "#ff73b3",
-      birthday: "#ff73b3",
-      moderation: "#ff73b3",
+      economy: "#84D8FF",
+      birthday: "#84D8FF",
+      moderation: "#84D8FF",
 
       // Ticket priority color mapping.
       priority: {
-        none: "#ff73b3",
-        low: "#ff73b3",
-        medium: "#ff73b3",
-        high: "#ff73b3",
-        urgent: "#ff73b3",
+        none: "#84D8FF",
+        low: "#84D8FF",
+        medium: "#84D8FF",
+        high: "#84D8FF",
+        urgent: "#84D8FF",
       },
     },
     footer: {
